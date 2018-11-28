@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051747486198",
+    "firebase_url": "https://burritoapp-da13f.firebaseio.com",
+    "project_id": "burritoapp-da13f",
+    "storage_bucket": "burritoapp-da13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051747486198:android:10cc37edd1f0aa4f",
+        "android_client_info": {
+          "package_name": "com.alohadevelop.burritoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051747486198-esh9n67ir84am5mda6t9t7ebndd2s6vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alohadevelop.burritoapp",
+            "certificate_hash": "3e3cfad8a0c07c627b9f4f71a558fcc57faaaafa"
+          }
+        },
+        {
+          "client_id": "1051747486198-q4ruspq7ggnt5a8g592t1ngmrt2juu5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvplD_Z8lJoG-0FdkRPq1wxcg3LNVc_3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051747486198-q4ruspq7ggnt5a8g592t1ngmrt2juu5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
